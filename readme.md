@@ -1,5 +1,5 @@
-Bikeshare Rental System in Washington DC
-by Pranav Bhatnagar
+## Bikeshare Rental System in Washington DC
+# by Pranav Bhatnagar
 
 There are two python files. 
 Project_BikeShare_Part1.ipynb goes over the exploratory data analysis. 
